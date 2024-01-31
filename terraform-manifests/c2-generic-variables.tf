@@ -19,7 +19,3 @@ variable "business_divsion" {
 }
 variable "AWS_ACCESS_KEY"{}
 variable "AWS_SECRET_ACCESS_KEY"{}
-variable "dns_name"{
-type=string
-default="mcit.com"
-}
